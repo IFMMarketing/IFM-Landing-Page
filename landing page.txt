@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section class="hero">
+        <h1>Welcome to our landing page</h1>
+        <p>Here you can find out more about our products and services</p>
+        <button>Learn more</button>
+      </section>
+      <section class="features">
+        <h2>Our features</h2>
+        <ul>
+          <li>Feature 1</li>
+          <li>Feature 2</li>
+          <li>Feature 3</li>
+        </ul>
+      </section>
+      <section class="cta">
+        <h2>Get started now</h2>
+        <p>Sign up for our newsletter to receive updates on our latest offers</p>
+        <form>
+          <input type="email" placeholder="Enter your email">
+          <button type="submit">Subscribe</button>
+        </form>
+      </section>
+    </main>
+    <footer>
+      <p>Copyright © 2023</p>
+    </footer>
+  </body>
+</html>
